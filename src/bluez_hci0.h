@@ -8,6 +8,4 @@ void prog_quit_bluez_hci0(void);
 void start_scan(void);
 
 
-
-					
-#endif				
+#endif                
